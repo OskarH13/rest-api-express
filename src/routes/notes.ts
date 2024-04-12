@@ -1,7 +1,7 @@
 import { Request, Response, Router } from 'express'
 import * as fs from 'node:fs'
 // const fs = require('fs')
-import { getNotes } from '../services/data'
+import { getNotes } from '../services/Homework1'
 import { Note } from '../types/notes'
 
 
